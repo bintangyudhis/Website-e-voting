@@ -54,6 +54,12 @@ Aplikasi dapat dibuka di `http://127.0.0.1:8000`. Halaman pertama yang tampil ad
 
 Untuk build aset produksi, jalankan `npm run build`.
 
+## Tangkapan Layar
+
+![Tangkapan layar halaman utama](docs/screenshot.png)
+
+Halaman pertama yang dibuka aplikasi adalah halaman login pemilih.
+
 ## Lisensi
 
 Proyek ini memakai lisensi MIT. Lihat berkas [LICENSE](LICENSE).
