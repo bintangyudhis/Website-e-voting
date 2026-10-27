@@ -43,7 +43,7 @@ class DatabaseSeeder extends Seeder
                 'NIM' => $data[1],
                 'email' => $data[3],
                 'password' => bcrypt('password'),
-                'role' => 'Voter',
+                'role' => 'voter',
             ]);
         }
 
